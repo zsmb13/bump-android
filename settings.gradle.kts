@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "bump-android"
 include(":app")
- 
+include(":shared")
